@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
--bit-sync-counter
+bit sync counter
 
 ## How to test
-
 supply power, look at led, check with truth table
 
 ## External hardware
-
 LED
